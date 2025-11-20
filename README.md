@@ -68,7 +68,7 @@ Adds two reversed linked list numbers. Includes custom `ListNode` class.
 
 ### **5. Longest Palindromic Substring (Medium)**
 
-### **6. Zigzag Conversion (Medium)**
+### **6. Zigzag Conversion (Medium)** ✅
 
 ### **7. Reverse Integer (Medium)**
 
