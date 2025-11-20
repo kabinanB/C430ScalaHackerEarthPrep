@@ -20,7 +20,7 @@ https://kkspeed.github.io/leetcode-scala/basic-recursion.html
 
 # Contents of This Repository
 
-### ✔ MCQ Section  
+### MCQ Section  
 A complete collection of Scala MCQs covering:
 
 - Scala basics  
@@ -39,6 +39,9 @@ A complete collection of Scala MCQs covering:
 - And more…
 
 All MCQs from the assignment are included in this README for easy reference.
+
+## Link for the Document:
+https://docs.google.com/document/d/1XeN7w-MOq5uxDOMS0TeZZlNY1ZWV_Eehi3JGhY2IEJ8/edit?usp=sharing
 
 ---
 
