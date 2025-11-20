@@ -64,7 +64,7 @@ Adds two reversed linked list numbers. Includes custom `ListNode` class.
 
 ### **3. Longest Substring Without Repeating Characters (Medium)** ✅
 
-### **4. Median of Two Sorted Arrays (Hard)**  
+### **4. Median of Two Sorted Arrays (Hard)** ✅ 
 
 ### **5. Longest Palindromic Substring (Medium)**
 
