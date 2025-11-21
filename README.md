@@ -81,7 +81,7 @@ Adds two reversed linked list numbers. Includes custom `ListNode` class.
 
 ### **11. Container With Most Water (Medium)** ✅
 
-### **12. 3Sum (Medium)**
+### **12. 3Sum (Medium)** ✅
 
 ### **17. Letter Combinations of a Phone Number (Medium)**
 
