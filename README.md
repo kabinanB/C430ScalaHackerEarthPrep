@@ -73,7 +73,7 @@ Adds two reversed linked list numbers. Includes custom `ListNode` class.
 
 ### **7. Reverse Integer (Medium)**
 
-### **8. String to Integer (atoi) (Medium)**
+### **8. String to Integer (atoi) (Medium)** ✅
 
 ### **9. Palindrome Number (Easy)** ✅
 
