@@ -87,7 +87,7 @@ Adds two reversed linked list numbers. Includes custom `ListNode` class.
 
 ### **19. Remove Nth Node From End of List (Medium)**
 
-### **20. Valid Parentheses (Easy)**
+### **20. Valid Parentheses (Easy)** ✅
 
 ### **45. Jump Game II (Medium)**
 
