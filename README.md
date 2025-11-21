@@ -96,5 +96,3 @@ Adds two reversed linked list numbers. Includes custom `ListNode` class.
 
 ---
 
-# 🏗 Project Structure
-
